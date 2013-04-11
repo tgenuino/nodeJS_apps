@@ -1,0 +1,13 @@
+{
+    "listen" : 3001,
+            
+    "databases": {
+        "default": {
+            "type": "mysql",
+            "host": "trendiserver",
+            "user": "trendi",
+            "pass": "trendi",
+            "name": "spr_1"
+        }
+    }
+}

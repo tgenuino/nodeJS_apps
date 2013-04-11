@@ -1,0 +1,13 @@
+{
+    "listen" : 3000,
+            
+    "databases": {
+        "default": {
+            "type": "mysql",
+            "host": "localhost",
+            "user": "root",
+            "pass": "root",
+            "name": "hvc_prod"
+        }
+    }
+}
